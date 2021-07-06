@@ -21,13 +21,19 @@ Louise needed to see information to help her plan her theater-based campaign, an
 
 ## Analysis and Challenges
 
-First we took a look at the data that was provided from Kickstarter. We had to format information, split data into fresh columns, and added conditional formatting to help Louise interpret the information. We made sure the data was organized and sorted. We created visualizations that help show trends of the data and improve our ability to perform our analysis. We used statistics to allow us to view outliers and averages for our final report to Louise.
+First we took a look at the data that was provided from Kickstarter. We had to format information, split data into new columns, and add conditional formatting to help Louise interpret the information. We made sure the data was organized and sorted. We created visualizations that help show trends of the data and improve our ability to perform our analysis. We used statistics to allow us to view outliers and averages for our final report to Louise.
 
 Specifically we had a few questions to answer such as: 
 - Is a theater type of Kickstarter successful?
 - What is the most successful length of a Kickstarter campaign like Louise's? 
 - Is there a certain time of year when campaigns like this are most successful? 
 - What is a successful goal amount for this type of Kickstarter?
+
+![parent_category_outcomes](/resources/Parent_category_outcomes.png)
+
+![subcategory_outcomes](/resources/Parent_category_outcomes.png)
+
+We were able to see that theater Kickstarters, specifically plays, are a successful category of campaigns. We began to drill down into what types of choices made by the campaign creator would then positively affect the outcome of their theater campaign.
 
 ### Analysis of Outcomes Based on Launch Date
 By visualizing the information of outcomes and launch dates over time, we can see that there are trends that change for when a theater campaign is successful. 
