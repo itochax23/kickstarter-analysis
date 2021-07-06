@@ -31,7 +31,7 @@ Specifically we had a few questions to answer such as:
 
 ![parent_category_outcomes](/resources/Parent_category_outcomes.png)
 
-![subcategory_outcomes](/resources/Parent_category_outcomes.png)
+![subcategory_outcomes](/resources/subcategory_outcomes.png)
 
 We were able to see that theater Kickstarters, specifically plays, are a successful category of campaigns. We began to drill down into what types of choices made by the campaign creator would then positively affect the outcome of their theater campaign.
 
