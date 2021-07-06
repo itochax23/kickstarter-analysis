@@ -29,14 +29,11 @@ Specifically we had a few questions to answer such as:
 - Is there a certain time of year when campaigns like this are most successful? 
 - What is a successful goal amount for this type of Kickstarter?
 
-![parent_category_outcomes](bing.com)
-
-![outcomes_by_launch_date](google.com)
-
-![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals.png)
-
 ### Analysis of Outcomes Based on Launch Date
 By visualizing the information of outcomes and launch dates over time, we can see that there are trends that change for when a theater campaign is successful. 
+
+![outcomes_by_launch_date](/resources/Theater_outcomes_vs_launch.png)
+
 #### Successful campaigns
 * The most successful theater Kickstarters were launched in May. 
 * After May, the success trends down until September. 
@@ -48,6 +45,9 @@ By visualizing the information of outcomes and launch dates over time, we can se
 
 ### Analysis of Outcomes Based on Goals
 Looking at the information of outcomes by goal, we can visualize which successful play Kickstarters were funded successfully, which failed, and which were canceled based on the amount set as the campaign goal. 
+
+![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals.png)
+
 #### Successful campaigns
 * The percentage successful started high at 80% for goals less than 1000.
 * The number of successful campaigns went down to around 20% when the goal amount went up to the range of 25000 to 29999. 
