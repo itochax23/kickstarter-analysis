@@ -33,7 +33,7 @@ Specifically we had a few questions to answer such as:
 
 ![outcomes_by_launch_date](google.com)
 
-![Outcomes_vs_Goals](images.com)
+![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Launch Date
 By visualizing the information of outcomes and launch dates over time, we can see that there are trends that change for when a theater campaign is successful. 
